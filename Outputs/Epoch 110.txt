@@ -1,0 +1,20 @@
+Epoch 1/10
+473/473 [==============================] - 349s 710ms/step - total_loss: 0.3964 - class_loss: 0.1120 - regress_loss: 0.3404 - val_total_loss: 0.0390 - val_class_loss: 0.0020 - val_regress_loss: 0.0381
+Epoch 2/10
+473/473 [==============================] - 280s 510ms/step - total_loss: 0.2021 - class_loss: 0.0690 - regress_loss: 0.1676 - val_total_loss: 0.2627 - val_class_loss: 0.3307 - val_regress_loss: 0.0974
+Epoch 3/10
+473/473 [==============================] - 229s 453ms/step - total_loss: 0.1092 - class_loss: 0.0445 - regress_loss: 0.0870 - val_total_loss: 0.0084 - val_class_loss: 0.0031 - val_regress_loss: 0.0068
+Epoch 4/10
+473/473 [==============================] - 224s 447ms/step - total_loss: 0.0891 - class_loss: 0.0326 - regress_loss: 0.0728 - val_total_loss: 0.0053 - val_class_loss: 6.5123e-05 - val_regress_loss: 0.0052
+Epoch 5/10
+473/473 [==============================] - 216s 430ms/step - total_loss: 0.0731 - class_loss: 0.0255 - regress_loss: 0.0603 - val_total_loss: 0.0181 - val_class_loss: 9.2743e-04 - val_regress_loss: 0.0177
+Epoch 6/10
+473/473 [==============================] - 218s 435ms/step - total_loss: 0.0501 - class_loss: 0.0187 - regress_loss: 0.0408 - val_total_loss: 5.9547e-04 - val_class_loss: 7.3227e-04 - val_regress_loss: 2.2934e-04
+Epoch 7/10
+473/473 [==============================] - 215s 429ms/step - total_loss: 0.0408 - class_loss: 0.0146 - regress_loss: 0.0335 - val_total_loss: 0.0043 - val_class_loss: 5.8207e-05 - val_regress_loss: 0.0043
+Epoch 8/10
+473/473 [==============================] - 219s 437ms/step - total_loss: 0.0289 - class_loss: 0.0102 - regress_loss: 0.0238 - val_total_loss: 0.0025 - val_class_loss: 0.0013 - val_regress_loss: 0.0018
+Epoch 9/10
+473/473 [==============================] - 215s 428ms/step - total_loss: 0.0186 - class_loss: 0.0069 - regress_loss: 0.0151 - val_total_loss: 0.0027 - val_class_loss: 4.9594e-04 - val_regress_loss: 0.0025
+Epoch 10/10
+473/473 [==============================] - 215s 429ms/step - total_loss: 0.0241 - class_loss: 0.0088 - regress_loss: 0.0198 - val_total_loss: 6.6132e-04 - val_class_loss: 6.7164e-04 - val_regress_loss: 3.2550e-04
